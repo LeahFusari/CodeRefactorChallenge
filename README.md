@@ -6,9 +6,8 @@ Basic source code was provided for a presumably ficticious website landing page.
 
 My assignment was to update the code in both HTML and CSS files to meet the following Acceptance Criteria:
 
-## Acceptance Criteria
+## Acceptence Criteria
 
-```
 GIVEN a webpage that meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -21,7 +20,7 @@ THEN I find that they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-
+## What I did in the project
 
 I changed all the <div> elements to semantic elements to better describe what the <div> container was.  I then had to match the css code to the new element names.  
 
