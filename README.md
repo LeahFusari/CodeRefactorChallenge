@@ -24,7 +24,7 @@ THEN I find a concise, descriptive title
 
 ## What I did in the project
 
-I changed all the <div> elements to semantic elements to better describe what the <div> container was.  I then had to match the css code to the new element names.  
+I changed all the div elements to semantic elements to better describe what the div container was.  I then had to match the css code to the new element names.  
 
 I added an ID for a corresponding anchor tag to fix a broken link in the nav element.
 
