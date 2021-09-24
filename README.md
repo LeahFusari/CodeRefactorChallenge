@@ -8,6 +8,7 @@ My assignment was to update the code in both HTML and CSS files to meet the foll
 
 ## Acceptence Criteria
 
+```
 GIVEN a webpage that meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -19,6 +20,7 @@ WHEN I view the heading attributes
 THEN I find that they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+```
 
 ## What I did in the project
 
