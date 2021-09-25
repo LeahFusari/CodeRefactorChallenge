@@ -176,7 +176,13 @@ body {
     text-align: center;
 }
 
-.benefit-lead img {
+#benefitImage{
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -192,7 +198,7 @@ body {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} */
 
 /* End Benefit Content */
 
