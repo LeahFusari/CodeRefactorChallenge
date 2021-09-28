@@ -6,6 +6,14 @@ Basic source code was provided for a presumably ficticious website landing page.
 
 My assignment was to update the code in both HTML and CSS files to meet the following Acceptance Criteria:
 
+## User Story
+
+```
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our site is optimized for search engines
+```
+
 ## Acceptence Criteria
 
 ```
