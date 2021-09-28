@@ -4,15 +4,6 @@
     margin: 0;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
 /* Begin Body */
 body {
     background-color: #d9dcd6;
@@ -64,23 +55,14 @@ body {
 /* End Hero */
 
 /* Begin Primary Content */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
 
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-.content {
+.primaryContent {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.content article{
+.primaryContent article{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -89,14 +71,15 @@ body {
     color: #ffffff;
 }
 
-.content img{
+.primaryContent img{
     max-height: 200px;
 }
 
-.content h2{
+.primaryContent h2{
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* End Primary Content */
 
 /* Begin Benefits Content */
 .benefits {
@@ -125,7 +108,6 @@ body {
     margin: 10px auto;
     max-width: 150px;
 }
-
 /* End Benefit Content */
 
 /* Begin Footer */
@@ -140,5 +122,26 @@ body {
     font-size: 20px;
 }
 /* End footer */
-
 /* End Body */
+
+/* Begin utility classes and selectors */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* End utility classes and selectors */
