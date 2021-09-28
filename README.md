@@ -42,3 +42,4 @@ I made comments to better identify what section of code applied to which section
 
 I updated the title to be the "Company Name" so that it appears on the browser tab at the top.
 
+![image](https://user-images.githubusercontent.com/87339742/135157566-32e2af24-05a1-4b08-9a89-335168067027.png)
